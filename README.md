@@ -4,6 +4,9 @@ Aplikasi dashboard admin sederhana berbasis Laravel. Studi kasus toko online den
 
 <img src="https://github.com/user-attachments/assets/d96b75fe-cb39-41f8-acfc-ed3d620ce20d" width="400"/>
 
+<img src="https://github.com/user-attachments/assets/3514ddee-acdb-4145-b36b-460ea1fdd7b0" width="400"/>
+
+
 
 
 - Manajemen User (CRUD)
