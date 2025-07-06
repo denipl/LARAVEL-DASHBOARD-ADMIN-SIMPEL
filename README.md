@@ -1,5 +1,3 @@
-![Screenshot 2025-07-06 131359](https://github.com/user-attachments/assets/75d7029c-cf0c-41c1-8082-d1ebb5273411)# Laravel Dashboard Admin Simpel
-
 Aplikasi dashboard admin sederhana berbasis Laravel. Studi kasus toko online dengan fitur manajemen user, kategori, produk, dan laporan.
 
 ## Fitur
