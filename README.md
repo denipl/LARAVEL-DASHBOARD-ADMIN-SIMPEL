@@ -1,8 +1,13 @@
-# Laravel Dashboard Admin Simpel
+![Screenshot 2025-07-06 131359](https://github.com/user-attachments/assets/75d7029c-cf0c-41c1-8082-d1ebb5273411)# Laravel Dashboard Admin Simpel
 
 Aplikasi dashboard admin sederhana berbasis Laravel. Studi kasus toko online dengan fitur manajemen user, kategori, produk, dan laporan.
 
 ## Fitur
+
+![Screenshot 2025-07-06 131419](https://github.com/user-attachments/assets/d96b75fe-cb39-41f8-acfc-ed3d620ce20d)
+![Screenshot 2025-07-06 131359](https://github.com/user-attachments/assets/cd9b3ab4-15b6-4610-a57b-1171af3e3d73)
+
+
 
 - Manajemen User (CRUD)
 - Manajemen Kategori Produk (CRUD)
@@ -44,18 +49,19 @@ Aplikasi dashboard admin sederhana berbasis Laravel. Studi kasus toko online den
     ```sh
     php artisan migrate --seed
     ```
+7. **Jalankan migrasi & seeder**
+    ```sh
+    php artisan storage:link
+    ```
+8. Buatkan folder di : 1.public\storage/img-produk
+                       2.public\storage/img-user
 
-7. **Jalankan server**
+10. **Jalankan server**
     ```sh
     php artisan serve
     ```
 
-    **untuk sotege**
-    ```sh
-    php artisan storage:link
-    ```
-
-8. **Akses aplikasi**  
+11. **Akses aplikasi**  
     Buka browser ke [http://localhost:8000](http://localhost:8000)
 
 ## Akun Default
