@@ -2,7 +2,7 @@ Aplikasi dashboard admin sederhana berbasis Laravel. Studi kasus toko online den
 
 ## Fitur
 
-<img src="https://github.com/user-attachments/assets/d96b75fe-cb39-41f8-acfc-ed3d620ce20d" width="200"/>
+<img src="https://github.com/user-attachments/assets/d96b75fe-cb39-41f8-acfc-ed3d620ce20d" width="400"/>
 
 
 
