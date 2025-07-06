@@ -50,6 +50,11 @@ Aplikasi dashboard admin sederhana berbasis Laravel. Studi kasus toko online den
     php artisan serve
     ```
 
+    **untuk sotege**
+    ```sh
+    php artisan storage:link
+    ```
+
 8. **Akses aplikasi**  
     Buka browser ke [http://localhost:8000](http://localhost:8000)
 
@@ -74,7 +79,3 @@ Aplikasi dashboard admin sederhana berbasis Laravel. Studi kasus toko online den
 
 Proyek ini menggunakan lisensi [MIT](LICENSE).
 
----
-
-> Studi Kasus Toko Online - Web Programming BSI  
-> Kuliah..? BSI Aja !!!
