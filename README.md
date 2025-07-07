@@ -1,4 +1,4 @@
-Aplikasi dashboard admin sederhana berbasis Laravel. Studi kasus toko online dengan fitur manajemen user, kategori, produk, dan laporan.
+Aplikasi dashboard admin sederhana berbasis Laravel. Web ini sangat minimalis dan simpel dengan fitur manajemen user, kategori, produk, dan laporan.
 
 ## Fitur
 
